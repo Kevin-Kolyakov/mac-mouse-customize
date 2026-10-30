@@ -1,0 +1,16 @@
+{
+  "name": "mac-mouse-customize",
+  "version": "0.0.0",
+  "description": "Installs Mouse Customize, a macOS menu bar app for mouse buttons and scrolling",
+  "repository": "github:Kevin-Kolyakov/mac-mouse-customize",
+  "bin": {
+    "mac-mouse-customize": "install.js"
+  },
+  "files": [
+    "install.js",
+    "MouseCustomize.zip"
+  ],
+  "os": [
+    "darwin"
+  ]
+}

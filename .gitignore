@@ -7,3 +7,6 @@ DerivedData/
 xcuserdata/
 *.xcuserstate
 *.xcscmblueprint
+
+# npm package (zip is added by CI)
+npm/MouseCustomize.zip
